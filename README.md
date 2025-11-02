@@ -8,19 +8,17 @@
 
 ---
 
-<!-- About Section -->
 ### 🧠 About Me  
 
-- 🔭 I’m currently working on **Machine Learning & Natural Language Processing (NLP)**  
-- 🌱 I’m currently learning **Deep Learning, Data Analysis & Django**  
-- 💬 Ask me about **Python, Data Science, or ML projects**  
+- 🔭 Working on **Machine Learning, NLP & Deep Learning**  
+- 🌱 Learning **Advanced AI, Django, and Cloud Deployment**  
+- 💬 Ask me about **Python | Data Science | ML Projects**  
 - 📫 Reach me at **Dk8494136@gmail.com**  
-- ⚡ Fun fact: *I love solving problems with data-driven insights!*  
+- ⚡ Fun fact: *I turn coffee ☕ into clean data pipelines!*  
 
 ---
 
-<!-- Social Links -->
-<h3 align="left">🌐 Connect with Me:</h3>
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/devendra-kumar-prajapati-01956328a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,36 +33,22 @@
 
 ---
 
-<!-- Languages and Tools -->
-<h3 align="center">🧰 Languages and Tools</h3>
-
+### 🧰 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgres,git,github,aws,gcp,flask,django,tensorflow,pytorch,sklearn,pandas,numpy,opencv,seaborn,html,css&theme=light" />
 </p>
 
 ---
 
-<!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dk8494&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dk8494&theme=blueberry&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dk8494&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dk8494&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk8494&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<!-- Footer -->
-<h3 align="center">✨ “Turning data into decisions.” ✨</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=100&section=footer" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?u
 
