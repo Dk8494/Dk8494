@@ -53,6 +53,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk8494&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+### 🐍 Contribution Snake (Auto Updated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dk8494/dk8494/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ⭐ From [Devendra Kumar](https://github.com/dk8494)
