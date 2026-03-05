@@ -53,6 +53,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk8494&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dk8494&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dk8494&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake (Auto Updated)
 
 <p align="center">
