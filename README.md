@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dk8494&theme=tokyo-night&hide_border=true" />
 </p>
-
 ---
 
 ⭐ From [Devendra Kumar](https://github.com/dk8494)
