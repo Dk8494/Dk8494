@@ -37,12 +37,20 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+## 📈 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dk8494&theme=tokyo-night&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dk8494&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dk8494&theme=tokyonight&hide_border=true" />
 </p>
----
+
+<p align="center">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk8494&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dk8494&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ⭐ From [Devendra Kumar](https://github.com/dk8494)
 
