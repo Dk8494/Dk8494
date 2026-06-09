@@ -36,11 +36,11 @@
 </p>
 
 ---
-##Stat
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dk8494&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk8494&layout=compact&theme=tokyo-night&hide_border=true" />
-</div>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dk8494&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://metrics.lecoq.io/dk8494?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics Dashboard" />
