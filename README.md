@@ -42,9 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/dk8494" alt="dk8494's Github chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dk8494&theme=tokyonight" alt="dk8494's Contribution Graph" />
 </p>
-
 <p align="center">
   <img src="https://metrics.lecoq.io/dk8494?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics Dashboard" />
 </p>
