@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/dk8494?template=classic&config.timezone=Asia%2FKolkata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Metrics Dashboard with Box Graph" />
+  <img src="https://ghchart.rshah.org/dk8494" alt="dk8494's Github chart" />
 </p>
 
 <p align="center">
