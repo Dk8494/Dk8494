@@ -36,11 +36,14 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dk8494&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/dk8494?template=classic&config.timezone=Asia%2FKolkata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Metrics Dashboard with Box Graph" />
+</p>
 
 <p align="center">
   <img src="https://metrics.lecoq.io/dk8494?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics Dashboard" />
