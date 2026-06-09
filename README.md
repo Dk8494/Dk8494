@@ -39,7 +39,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dk8494/dk8494/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://metrics.lecoq.io/dk8494?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics Dashboard" />
 </p>
 
 ⭐ From [Devendra Kumar](https://github.com/dk8494)
